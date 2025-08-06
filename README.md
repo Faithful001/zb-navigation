@@ -20,7 +20,7 @@ Clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/Faithful001/zb-navigation.git
-cd zb-accordion
+cd zb-navigation
 npm install
 # or
 yarn install
@@ -66,7 +66,7 @@ yarn lint
 ## Customization
 
 - Update styles in `src/App.css` or `src/index.css`.
-- Replace icons in `public/assets/icons/` as needed.
+- Replace assets in `public/assets/*` as needed.
 
 ## License
 
