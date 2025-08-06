@@ -1,4 +1,4 @@
-# zb-accordion
+# zb-navigation
 
 A simple, navigation hero page built with React, TypeScript, and Vite.
 
